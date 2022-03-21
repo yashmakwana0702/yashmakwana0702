@@ -14,13 +14,13 @@ Here are some ideas to get you started:
   <img alt="Manthan's Insta" width="22px" src="/img/instagram.png" />
 </a>
 <a href="https://twitter.com/g_m_j_2703">
-  <img alt="Manthan Ghasadiya | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Yash Makwana | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/manthan-ghasadiya-6322bb1a0/">
-  <img alt="Manthan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Yash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://youtube.com/hackynerdz">
-  <img alt="Manthan's YT channel" width="22px" src="/img/YT.png" />
+  <img alt="Yash's YT channel" width="22px" src="/img/YT.png" />
 </a>
 </p>
 
