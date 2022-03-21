@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.instagram.com/g_m_j_27_03/" >
-  <img alt="Manthan's Insta" width="22px" src="/img/instagram.png" />
+  <img alt="Yash's Insta" width="22px" src="/img/instagram.png" />
 </a>
 <a href="https://twitter.com/g_m_j_2703">
   <img alt="Yash Makwana | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -52,14 +52,14 @@ Here are some ideas to get you started:
 <div>
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=manthanghasadiya&column=7&margin-w=15&margin-h=15&theme=onedark"/>
+    <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=yashmakwana0702&column=7&margin-w=15&margin-h=15&theme=onedark"/>
   </a>
   </p>
 </div>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=manthanghasadiya&show_icons=true&theme=gotham" alt="manthanghasadiya" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashmakwana0702&show_icons=true&theme=gotham" alt="yashmakwana0702" />
 <p>
 <p align="center">
-  <IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanghasadiya&theme=gotham&&layout=compact"/>
+  <IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmakwana0702&theme=gotham&&layout=compact"/>
 <p>
