@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.instagram.com/yash_makwana_0702/" >
-  <img alt="Yash's Insta" width="22px" src="/img/instagram.png" />
+  <img alt="Yash's Insta" width="22px" src="./instagram.svg" />
 </a>
 <a href="https://twitter.com/YashMak76568068">
   <img alt="Yash Makwana | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
