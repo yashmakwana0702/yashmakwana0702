@@ -7,27 +7,25 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=manthanghasadiya alt=manthanghasadiya/> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=yashmakwana0702 alt=yashmakwana0702/> </p>
 
 <p align="center">
-<a href="https://www.instagram.com/g_m_j_27_03/" >
+<a href="https://www.instagram.com/yash_makwana_0702/" >
   <img alt="Yash's Insta" width="22px" src="/img/instagram.png" />
 </a>
-<a href="https://twitter.com/g_m_j_2703">
+<a href="https://twitter.com/YashMak76568068">
   <img alt="Yash Makwana | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/manthan-ghasadiya-6322bb1a0/">
+<a href="https://www.linkedin.com/in/yash-makwana-231016196/">
   <img alt="Yash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://youtube.com/hackynerdz">
-  <img alt="Yash's YT channel" width="22px" src="/img/YT.png" />
-</a>
+
 </p>
 
 -----
 
-<p>Hi I'm <a href="https://github.com/manthanghasadiya">Manthan</a>, Ethical hacking Enthusiast & a developer from <img src="/img/india.png" width="14"/> <b>Gujarat, India</b>. I'm active blogger at <a href="https://www.techfornerdz.com"><img src="/img/worldwide.png" width="14"> techfornerdz.com</a> and also a <a href="https://youtube.com/hackynerdz">youtuber</a>.</p>
-<p>I like to use different Operating systems and learn different features about those OS. I also like to spread more knowledge about technology to all aroud the globe. That's why I write blogs and make youtube Videos.</p>
+<p>Hi I'm <a href="https://github.com/yashmakwana0702">Yash Makwana</a>, Ethical hacking Enthusiast & a developer from <img src="/img/india.png" width="14"/> <b>Gujarat, India</b>. I am interested in new hardware development and Games,  I also like modding pc games.<br>
+<p>I like to use different Operating systems and learn different features about those OS. I also like to spread more knowledge about technology to all aroud the globe. </p>
 
 <img src="/img/Hacking.gif" width="300" align='right'>
 
@@ -43,7 +41,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: 
  
-- 👾 My Portfolio [Hackynerdz](https://manthanghasadiya.github.io/hackynerdz/)
+- 👾 My Portfolio (https://yashmakwana0702.github.io/)
 
 - 💬 Ask me about anything **I'm happy to help🤝**
 
